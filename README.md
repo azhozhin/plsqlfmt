@@ -23,3 +23,5 @@ get fatjar in build/libs/plsqlfmt-all-1.0-SNAPSHOT.jar
 java -jar plsqlfmt-all.jar -style codestyle.xml -input query_factoring07.sql -output query_factoring07_f.sql
 ```
 
+Test files `codestyle.xml` and `query_factoring07.sql` could be found in examples folder
+
