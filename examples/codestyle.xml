@@ -1,0 +1,60 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<SQLprofiles class="oracle.dbtools.proformatter.treePreferences.style.profile.CodingStyleSQLProfiles" xmlns="http://xmlns.oracle.com/jdeveloper/110000/default-coding-sql-style-profiles">
+  <profileMap class="java.util.HashMap">
+    <Item>
+      <Key>1:SQL</Key>
+      <Value class="oracle.dbtools.proformatter.treePreferences.CodingStyleSQLProfile">
+        <alignAs>false</alignAs>
+        <alignComma>false</alignComma>
+        <alignComment>true</alignComment>
+        <alignConcat>true</alignConcat>
+        <alignDecl>true</alignDecl><!---->
+        <alignEqual>false</alignEqual>
+        <alignKeyword>false</alignKeyword>
+        <alignOperator>false</alignOperator>
+        <bracketSpacing>0</bracketSpacing><!---->
+        <bracketSpacingAndOrWhen>true</bracketSpacingAndOrWhen>
+        <breakAfterAnd>false</breakAfterAnd>
+        <breakAfterComma>false</breakAfterComma><!---->
+        <breakAfterConcat>false</breakAfterConcat><!---->
+        <breakBeforeAnd>true</breakBeforeAnd>
+        <breakBeforeComma>true</breakBeforeComma><!---->
+        <breakBeforeComment>false</breakBeforeComment><!---->
+        <breakBeforeConcat>true</breakBeforeConcat><!---->
+        <breakCase>true</breakCase><!---->
+        <breakCaseAndOr>true</breakCaseAndOr>
+        <breakCaseElse>true</breakCaseElse><!---->
+        <breakCaseThen>true</breakCaseThen><!---->
+        <breakCaseWhen>true</breakCaseWhen><!---->
+        <breakJoin>true</breakJoin><!---->
+        <breakKeyword>true</breakKeyword>
+        <breakSchema>0</breakSchema>
+        <breakSelectBracket>true</breakSelectBracket>
+        <colored>false</colored>
+        <commaSpacing>3</commaSpacing><!---->
+        <dblIndent>false</dblIndent>
+        <forceDifference>true</forceDifference>
+        <indentAnd>false</indentAnd>
+        <lineNum>10</lineNum>
+        <lineWidth>128</lineWidth><!---->
+        <moreNewlines>false</moreNewlines>
+        <name>SQL</name>
+        <numCommas>1</numCommas><!---->
+        <numSpaces>2</numSpaces><!---->
+        <operatorSpacing>2</operatorSpacing><!---->
+        <preserveNewlines>2</preserveNewlines>
+        <quoteChar>0</quoteChar>
+        <replaceComment>false</replaceComment>
+        <smallSql>20</smallSql>
+        <sourceSql>1</sourceSql>
+        <sqlSourceEnclosed>0</sqlSourceEnclosed>
+        <sqlSourceEscape>0</sqlSourceEscape>
+        <sqlsourceCopied>false</sqlsourceCopied>
+        <suppressComment>false</suppressComment>
+        <targetSql>0</targetSql>
+        <uppercase>1</uppercase><!---->
+        <useTab>false</useTab><!---->
+      </Value>
+    </Item>
+  </profileMap>
+</SQLprofiles>
