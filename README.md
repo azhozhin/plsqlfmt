@@ -5,8 +5,8 @@ PL/SQL formatter that uses Oracle SQL Developer libraries to format your code.
 ## Compilation
 
 You need two libraries from sqldeveloper installation:
-* SQLinForm.jar
-* oracle.dbtools-common.jar
+* SQLinForm.jar (sqldeveloper/sqldeveloper/lib/SQLinForm.jar)
+* oracle.dbtools-common.jar (sqldeveloper/sqlcl/lib/oracle.dbtools-common.jar)
 
 put these jars into libs folder
 
